@@ -1,21 +1,37 @@
 .button {
 
     display: inline-block;
-    padding: 10px 0; /* Регулируйте отступы в зависимости от ваших предпочтений */
-    background-color: #3498db; /* Цвет фона кнопки */
-    color: #ffffff; /* Цвет текста (белый) */
+    padding: 10px 0; 
+    background-color: #3498db; 
+    color: #ffffff; 
     border: none;
-    border-radius: 5px; /* Скругление углов для добавления стиля */
+    border-radius: 5px;
     text-align: center;
     text-decoration: none;
-    font-size: 16px; /* Размер шрифта */
-    width: 48%; /* Ширина кнопки 100% */
+    font-size: 16px; 
+    width: 48%; 
     cursor: pointer;
+    margin-top: 26px;
     
 }
 
+.test32 img {
+    position: absolute;
+    width: 8%;
+    margin-top: 27px;
+}
+
 .m1rR-1 {
-    margin-top: 29px;
+
+    margin-top: 77px;
+    
+}
+
+.episode img {
+    margin-top: 20px;
+    width: 30%; /* Измените значение по вашему усмотрению */
+    height: auto; /* Автоматическое подстраивание высоты для сохранения пропорций */
+    
 }
 
 .absolute {
@@ -25,12 +41,35 @@
 
 }
 
-.test32 img {
-    width: 123px;
-}
 
 .globus img {
     width: 324px;
-    margin-top: 34px;
+    margin-top: 10px;
     margin-left: 112px;
+}
+
+body {
+    transform: scale(0.9); /* Измените значение по вашему усмотрению */
+    transform-origin: top left;
+}
+
+.h1 {
+    margin-top: -20px;
+}
+
+.p1 {
+    margin-top: -5px;
+}
+
+
+.Firewall img{
+    margin-top: 10px; /* Измените значение по вашему усмотрению */
+    width: 6%; /* Измените значение по вашему усмотрению */
+    height: auto
+}
+
+
+.m1rR-2 {
+    width: 65%;
+    margin-left: 30px;
 }
