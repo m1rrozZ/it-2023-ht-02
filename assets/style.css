@@ -1,7 +1,21 @@
 .button {
 
-    background-color: rgba(24, 144, 255, 1);
+    display: inline-block;
+    padding: 10px 0; /* Регулируйте отступы в зависимости от ваших предпочтений */
+    background-color: #3498db; /* Цвет фона кнопки */
+    color: #ffffff; /* Цвет текста (белый) */
+    border: none;
+    border-radius: 5px; /* Скругление углов для добавления стиля */
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px; /* Размер шрифта */
+    width: 48%; /* Ширина кнопки 100% */
+    cursor: pointer;
     
+}
+
+.m1rR-1 {
+    margin-top: 29px;
 }
 
 .absolute {
@@ -11,6 +25,12 @@
 
 }
 
-.test32 {
-    width: 1px;
+.test32 img {
+    width: 123px;
+}
+
+.globus img {
+    width: 324px;
+    margin-top: 34px;
+    margin-left: 112px;
 }
