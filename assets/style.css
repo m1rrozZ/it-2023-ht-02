@@ -2,5 +2,15 @@
 
     background-color: rgba(24, 144, 255, 1);
     
+}
 
+.absolute {
+
+    position: absolute;
+    top: 30px;
+
+}
+
+.test32 {
+    width: 1px;
 }
